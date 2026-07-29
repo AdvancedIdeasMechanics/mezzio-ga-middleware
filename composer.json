@@ -41,12 +41,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Advancedideasmechanics\\MezzioGaMiddleware\\": "src/"
+      "AdvancedIdeasMechanics\\MezzioGaMiddleware\\": "src/"
     }
   },
   "extra": {
     "laminas": {
-      "config-provider": "Advancedideasmechanics\\MezzioGaMiddleware\\ConfigProvider"
+      "config-provider": "AdvancedIdeasMechanics\\MezzioGaMiddleware\\ConfigProvider"
     }
   }
 }
